@@ -1,5 +1,5 @@
 // come up with a random message idea: 
-// Your best car you will have:
+// The best car you will ever have:
 
 // Car brand:
 let car = ['BMW', 'Skoda', 'Porsche', 'Ferrari', 'Lexus', 'Wolksvagen', 'Vauxhal', 'Toyota', 'McLaren',' Audi',' Seat', 'Ford', 'Lada'];
